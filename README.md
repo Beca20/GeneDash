@@ -1,4 +1,4 @@
-# GeneDash
+![Dashboard](https://github.com/user-attachments/assets/73ba2737-2ab0-4160-98c8-715fd7421e21)# GeneDash
 Dashboard Genético 
 
 este projeto simula um pequeno banco de dados genético, incluindo indivíduos, genes, variantes genéticas e níveis de expressão gênica por tecido. 
@@ -29,7 +29,8 @@ ao clicar em um item (ex: sexo ou tecido), os demais gráficos são filtrados au
 
 ### exemplo do dashboard:
 
-![dashboard](./Dashboard.gif)
+![Dashboard](https://github.com/user-attachments/assets/29a00b69-5eee-47fb-ac91-934e782ee6d5)
+
 
 > se quiser testar a versão interativa, é necessário abrir o arquivo `.pbix` no power bi desktop.
 
